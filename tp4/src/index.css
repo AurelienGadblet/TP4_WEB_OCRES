@@ -1,0 +1,42 @@
+.page
+{
+  width: auto;
+}
+
+.selection
+{
+  display: flex;
+  justify-content: space-around;
+  margin-left: 50em;
+  margin-right: 20em;
+  margin-top: 2em;
+
+
+}
+
+.bouton
+{
+ 
+}
+
+.informations
+{
+  border: 1px solid;
+  border-color: grey;
+  border-radius: 2px;
+  margin-top: 2em;
+  margin-left: 10em;
+  margin-right: 10em;
+  padding:5px;
+}
+
+.article
+{
+  border: 1px solid;
+  border-color: grey;
+  border-radius: 2px;
+  margin-top: 2em;
+  margin-left: 10em;
+  margin-right: 10em;
+  padding:5px;
+}
